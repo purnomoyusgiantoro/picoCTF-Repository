@@ -12,7 +12,7 @@ Can you get the real meaning from this file. Download the file here.
 
 1. Engaging in various decoding processes is of utmost importance
 
-## Approach :
+## Solution :
 
 1. The first thing you have to do is download the file from the link in the terminal and use wget.
 
