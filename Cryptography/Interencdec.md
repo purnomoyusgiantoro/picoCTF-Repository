@@ -10,7 +10,7 @@ Can you get the real meaning from this file. Download the file here.
 
 ## Hints :
 
-1. Engaging in various decoding processes is of utmost importance
+1. Engaging in various decoding processes is of utmost importance.
 
 ## Solution :
 
